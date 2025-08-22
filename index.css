@@ -446,7 +446,7 @@ h2 .blue-text {
 .capability-item {
     padding: 30px;
     background: #363E4C;
-    background-image: url('Image/фон 3.png');
+    background-image: url('Image/фон_3.png');
     background-size: cover;
     background-position: center;
     border-radius: 0;
@@ -595,7 +595,7 @@ h2 .blue-text {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url('Image/фон 3.png');
+    background-image: url('Image/фон_3.png');
     background-size: cover;
     background-position: center;
     opacity: 0.8;
@@ -676,7 +676,7 @@ h2 .blue-text {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url('Image/фон 3.png');
+    background-image: url('Image/фон_3.png');
     background-size: cover;
     background-position: center;
     opacity: 0.8;
@@ -1095,7 +1095,7 @@ footer {
     right: 0;
     width: 100%;
     height: 100%;
-    background-image: url('Image/ruka-robota 1.png');
+    background-image: url('Image/ruka-robota_1.png');
     background-size: contain;
     background-position: right center;
     background-repeat: no-repeat;
